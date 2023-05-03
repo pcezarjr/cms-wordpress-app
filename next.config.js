@@ -15,6 +15,7 @@ module.exports = {
       '2.gravatar.com',
       'secure.gravatar.com',
       'dev.paulojuniorfotografia.com.br',
+      'cms-wordpress-bzyjbf1eh-pcezarjr.vercel.app',
     ],
   },
 }
